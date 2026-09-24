@@ -140,7 +140,7 @@ Theo định hướng trong tài liệu, hệ thống có thể tích hợp vớ
 * Thiết lập lịch làm việc.
 * Đăng ký nghỉ phép.
 
-## 5.6. Quản lý mentor và phòng ban
+ 5.6. Quản lý mentor và phòng ban
 
 * Thêm và quản lý mentor.
 * Gán mentor cho thực tập sinh.
