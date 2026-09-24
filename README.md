@@ -1,4 +1,4 @@
-TTCS_T926_K10S6_N5
+Tên Nhóm: TTCS_T926_K10S6_N5
 
 Dự án nhóm TTCS_T926_K10S6_N5
 
@@ -9,8 +9,11 @@ Hệ thống quản lý thực tập sinh
 1.2. Tổng quan
 
 Hệ thống quản lý thực tập sinh được xây dựng nhằm số hóa và tập trung hóa toàn bộ quy trình quản lý thực tập sinh tại doanh nghiệp. Hệ thống hỗ trợ doanh nghiệp quản lý thông tin thực tập sinh, tiếp nhận và xét duyệt hồ sơ, tổ chức chương trình thực tập, giao và theo dõi công việc, chấm công, quản lý báo cáo, đánh giá và tổng hợp kết quả thực tập.
+
 Bên cạnh đó, hệ thống cung cấp các chức năng báo cáo, thống kê và quản trị tài khoản nhằm hỗ trợ HR và ban quản lý theo dõi quá trình thực tập một cách thống nhất, minh bạch và hiệu quả.
+
 Mục tiêu của dự án là giảm sự phụ thuộc vào các phương thức quản lý thủ công như Excel và email rời rạc, đồng thời tạo ra một môi trường làm việc thuận tiện cho cả doanh nghiệp và thực tập sinh.
+
 3. BỐI CẢNH DỰ ÁN
    
 2.1. Bối cảnh thực tế
