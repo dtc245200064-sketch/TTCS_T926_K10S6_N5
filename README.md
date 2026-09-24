@@ -1,6 +1,6 @@
 Tên Nhóm: TTCS_T926_K10S6_N5
 
-Dự án nhóm TTCS_T926_K10S6_N5
+Dự án :Hệ thống quản lý Thực tập sinh
 
 1. TỔNG QUAN DỰ ÁN
    
