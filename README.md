@@ -81,7 +81,6 @@ Dự án tập trung vào các nhóm nghiệp vụ chính:
 10. Thông báo và tích hợp hệ thống.
 11. Quản trị tài khoản và phân quyền.
 12. Bảo mật, sao lưu và nhật ký hoạt động.
-Các nhóm chức năng này được hình thành từ danh sách Epic và User Story trong tài liệu dự án.
 
 4.2. Đối tượng sử dụng
 
