@@ -90,7 +90,7 @@ Hệ thống phục vụ các nhóm người dùng chính:
 - HR: quản lý hồ sơ, xét duyệt, chương trình thực tập, chấm công, mentor, báo cáo và đánh giá.
 - Mentor: giao nhiệm vụ, theo dõi tiến độ, xem báo cáo và đánh giá thực tập sinh.
 - Thực tập sinh: đăng ký, nộp hồ sơ, xác nhận hợp đồng, xem lịch, thực hiện công việc, chấm công, nộp báo cáo và theo dõi đánh giá.
-- 
+  
 4.3. Phạm vi tích hợp
 Theo định hướng trong tài liệu, hệ thống có thể tích hợp với:
 - Hệ thống HRM để đồng bộ dữ liệu nhân sự.
@@ -106,7 +106,8 @@ Theo định hướng trong tài liệu, hệ thống có thể tích hợp vớ
 - Tìm kiếm và lọc theo trường/ngành.
 - Upload CV và đơn xin thực tập.
 - Xem và duyệt tài liệu.
-  5.2. Tiếp nhận và xét duyệt
+  
+5.2. Tiếp nhận và xét duyệt
 
 * Đăng ký tài khoản.
 * Nộp hồ sơ trực tuyến.
