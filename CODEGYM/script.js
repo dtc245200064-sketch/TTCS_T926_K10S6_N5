@@ -46,3 +46,9 @@ function confirmLogout() {
   closeModal();
 }
 
+// Bấm nút Đăng ký tài khoản mới
+function handleRegister() {
+  alert('Chuyển sang trang Đăng ký tài khoản mới!');
+}
+
+
